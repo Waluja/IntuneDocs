@@ -40,7 +40,7 @@ If you have an Exchange Online Dedicated environment and need to find out whethe
 
 Before you can configure conditional access, verify the following:
 
-- Your Exchange version must be **Exchange 2010 SP1 or later**. Exchange server Client Access Server (CAS) array is supported.
+- Your Exchange version must be **Exchange 2010 SP3 or later**. Exchange server Client Access Server (CAS) array is supported.
 
 - You must use the [Exchange Active Sync on-premises Exchange connector](exchange-connector-install.md), which connects Intune to on-premises Exchange.
 
